@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+xgboost
+matplotlib
+beautifulsoup4
+selenium
+whois
+tldextract
+requests
+joblib 
